@@ -30,3 +30,19 @@ sayViolin: function(){
 
 }
 
+
+console.log(title);
+console.log(fromAlbum);
+console.log(genres);
+console.log(genres[0]);
+console.log(genres[1]);
+console.log(lengthSong);
+console.log(releaseYear);
+console.log(itIsFromUK);
+console.log(personnel.vocal);
+console.log(personnel.viola);
+console.log(personnel.cello);
+console.log(personnel.producer);
+console.log(personnel.saySinger());
+console.log(personnel.sayEngineer());
+console.log(personnel.sayViolin());
